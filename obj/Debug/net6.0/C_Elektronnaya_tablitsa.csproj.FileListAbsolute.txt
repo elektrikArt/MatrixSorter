@@ -1,0 +1,15 @@
+C:\Users\musli\dev\c#\route256\C_Elektronnaya_tablitsa\bin\Debug\net6.0\C_Elektronnaya_tablitsa.exe
+C:\Users\musli\dev\c#\route256\C_Elektronnaya_tablitsa\bin\Debug\net6.0\C_Elektronnaya_tablitsa.deps.json
+C:\Users\musli\dev\c#\route256\C_Elektronnaya_tablitsa\bin\Debug\net6.0\C_Elektronnaya_tablitsa.runtimeconfig.json
+C:\Users\musli\dev\c#\route256\C_Elektronnaya_tablitsa\bin\Debug\net6.0\C_Elektronnaya_tablitsa.dll
+C:\Users\musli\dev\c#\route256\C_Elektronnaya_tablitsa\bin\Debug\net6.0\C_Elektronnaya_tablitsa.pdb
+C:\Users\musli\dev\c#\route256\C_Elektronnaya_tablitsa\obj\Debug\net6.0\C_Elektronnaya_tablitsa.csproj.AssemblyReference.cache
+C:\Users\musli\dev\c#\route256\C_Elektronnaya_tablitsa\obj\Debug\net6.0\C_Elektronnaya_tablitsa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musli\dev\c#\route256\C_Elektronnaya_tablitsa\obj\Debug\net6.0\C_Elektronnaya_tablitsa.AssemblyInfoInputs.cache
+C:\Users\musli\dev\c#\route256\C_Elektronnaya_tablitsa\obj\Debug\net6.0\C_Elektronnaya_tablitsa.AssemblyInfo.cs
+C:\Users\musli\dev\c#\route256\C_Elektronnaya_tablitsa\obj\Debug\net6.0\C_Elektronnaya_tablitsa.csproj.CoreCompileInputs.cache
+C:\Users\musli\dev\c#\route256\C_Elektronnaya_tablitsa\obj\Debug\net6.0\C_Elektronnaya_tablitsa.dll
+C:\Users\musli\dev\c#\route256\C_Elektronnaya_tablitsa\obj\Debug\net6.0\refint\C_Elektronnaya_tablitsa.dll
+C:\Users\musli\dev\c#\route256\C_Elektronnaya_tablitsa\obj\Debug\net6.0\C_Elektronnaya_tablitsa.pdb
+C:\Users\musli\dev\c#\route256\C_Elektronnaya_tablitsa\obj\Debug\net6.0\C_Elektronnaya_tablitsa.genruntimeconfig.cache
+C:\Users\musli\dev\c#\route256\C_Elektronnaya_tablitsa\obj\Debug\net6.0\ref\C_Elektronnaya_tablitsa.dll
